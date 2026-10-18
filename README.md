@@ -70,4 +70,4 @@ const BASE_MONDAY = new Date(2026, 7, 31);  // 第 1 周周一（月份从 0 开
 
 ## License
 
-MIT
+[MIT](LICENSE) © 2026 吴嘉琪
