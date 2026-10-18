@@ -2,6 +2,12 @@
 
 用 [Scriptable](https://scriptable.app) 在 iOS 桌面直接看课表，不用每天翻教务系统。
 
+## 预览
+
+| 今日课表 | 空课放松模式 | 整周网格（大尺寸） |
+|:---:|:---:|:---:|
+| ![今日课表](previews/today.png) | ![放松模式](previews/rest-mode.png) | ![整周课表](previews/weekly.png) |
+
 ## 功能
 
 - **今日课表**：只看当天的课，一行一节（课名 / 老师 / 教室全名 / 第几节）
